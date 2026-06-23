@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrinho</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+    <div class="container">
+
+        <a class="voltar" href="../Loja/"> ← Continuar comprando</a>
+
+        <h1>------Carrinho------</h1>
+
+        <ul id="lista"></ul>
+
+        <h3 id="total"></h3>
+
+        <button class="btn-word" onclick="gerar()">
+            Gerar Pedido
+        </button>
+
+        <p id="pedido">
+            Pedido gerado com sucesso!
+            <button id="sc" onclick="successClose()">❌</button>
+        </p>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
