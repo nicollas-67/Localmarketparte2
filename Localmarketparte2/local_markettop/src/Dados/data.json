@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "desc": "Pedra da Africa do sul",
+        "imagem": "https://newr7-r7-prod.web.arc-cdn.net/resizer/v2/UM4KUVQBTRP7NIMVXS4X3TBMRU.jpg?auth=f38febaede21255185ec2d9ce83d2242d8fa3998ea0e62b5576e790ee918056b&width=760&height=507",
+        "valor": "$1000,00"
+    },
+    {
+    
+        "id":1,
+        "desc": "Pedra da Amazonia",
+        "imagem": "https://d1o6h00a1h5k7q.cloudfront.net/imagens/img_m/12243/5448880_1.jpg",
+        "valor": "$5400,00"
+    },
+    {
+        
+        "id":1,
+        "desc": "Pedra dos Alpes Suiços",
+        "imagem": "https://preview.redd.it/found-this-quartz-i-think-crystal-in-the-swiss-alps-can-i-v0-i3pxkag3b3gf1.jpg?width=640&crop=smart&auto=webp&s=31108e0a33b5fd980206250ff328fa77d0b13f85",
+        "valor": "$7900,00"
+
+    }
+    
+]
